@@ -22,5 +22,3 @@
 #####  * 프로젝트 기간: 2021.07.06 ~ 진행중
 
 ##### [프로젝트 문서화][doclink]
-
-[doclink]: https://github.com/leedohyeong/KSA_MAKING_MASK/blob/main/Document/BMP_COMB_MASK.pdf "go doc"
