@@ -20,3 +20,5 @@
 #####  * 프로젝트 기간: 2021.07.06 ~ 2021.08.01
 
 ##### [프로젝트 문서화][doclink]
+
+[doclink]:https://github.com/leedohyeong/KSA_Parrot_Object_Detection/blob/main/%EC%95%B5%EB%AC%B4%EC%83%88%20%EC%A0%84%EC%B2%98%EB%A6%AC.pdf "go doc"
