@@ -21,4 +21,4 @@
 
 ##### [프로젝트 문서화][doclink]
 
-[doclink]:https://github.com/leedohyeong/KSA_Parrot_Object_Detection/blob/main/%EC%95%B5%EB%AC%B4%EC%83%88%20%EC%A0%84%EC%B2%98%EB%A6%AC.pdf "go doc"
+[doclink]:https://github.com/leedohyeong/XXBLUE_NFT_Project_average_face/blob/main/document/xxblue.pdf "go doc"
